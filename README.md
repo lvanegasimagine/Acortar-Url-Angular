@@ -1,5 +1,7 @@
 # AcorUrl
 
+Token generado desde https://bitly.com/ creando una cuenta luego {resource}.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.2.
 
 ## Development server
